@@ -1,4 +1,10 @@
 # DragonsMugloar
+
+Code By ASHUTOSH CHAUDHARY
+
+ashutosh.chaudhary.8619@gmail.com
+
+
 Please Kindly Find The Dragons Mugloar Front End Javascript Task
 
 
