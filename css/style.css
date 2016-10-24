@@ -1,0 +1,36 @@
+input {
+  width: 20px;
+}
+
+body {
+  font-family: 'verdana';
+  font-size: 1.5em;
+  color: #331a00;
+}
+
+p > a {
+  color: #331a00;
+}
+
+#header {
+  font-size: 1.5em;
+}
+
+@media screen and (max-width: 500px) {
+  #page {
+    position: absolute;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 10px;
+    min-height: 100%;
+    height: auto;
+  }
+}
+
+#page {
+  background-position: center;
+  max-width: 720px;
+  height: 829px;
+  margin: 0 auto;
+  padding: 100px 40px;
+}
